@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<defs>
+<radialGradient id="bgcon" cx="50%" cy="50%" r="75%"><stop offset="0%" stop-color="#2a0845"/><stop offset="55%" stop-color="#12002b"/><stop offset="100%" stop-color="#05000f"/></radialGradient>
+<radialGradient id="n1con"><stop offset="0%" stop-color="#c026d3" stop-opacity="0.75"/><stop offset="100%" stop-color="#c026d3" stop-opacity="0"/></radialGradient>
+<radialGradient id="n2con"><stop offset="0%" stop-color="#7c3aed" stop-opacity="0.8"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<radialGradient id="n3con"><stop offset="0%" stop-color="#f472b6" stop-opacity="0.55"/><stop offset="100%" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<linearGradient id="txcon" x1="0" x2="1"><stop offset="0%" stop-color="#f5d0fe"/><stop offset="50%" stop-color="#ffffff"/><stop offset="100%" stop-color="#c4b5fd"/></linearGradient>
+<linearGradient id="shcon" x1="0" x2="1"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="100%" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<filter id="glowcon" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="blurcon"><feGaussianBlur stdDeviation="18"/></filter>
+<clipPath id="clipcon"><rect width="100%" height="100%" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clipcon)">
+<rect width="1200" height="110" fill="url(#bgcon)"/>
+<g filter="url(#blurcon)">
+<ellipse cx="300" cy="49.5" rx="403.20000000000005" ry="49.5" fill="url(#n2con)"><animateTransform attributeName="transform" type="translate" values="0 0;72 5.5;0 0" dur="18s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="864" cy="60.50000000000001" rx="432" ry="55" fill="url(#n1con)"><animateTransform attributeName="transform" type="translate" values="0 0;-84.00000000000001 -6.6;0 0" dur="22s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="600" cy="33" rx="316.8" ry="38.5" fill="url(#n3con)"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="9s" repeatCount="indefinite"/></ellipse>
+</g>
+<g><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="0.0s" repeatCount="indefinite"/><circle cx="405" cy="10" r="0.6" fill="#c4b5fd"/><circle cx="941" cy="26" r="0.6" fill="#e9d5ff"/><circle cx="948" cy="34" r="1.0" fill="#e9d5ff"/><circle cx="700" cy="1" r="1.2" fill="#c4b5fd"/><circle cx="788" cy="81" r="1.1" fill="#e9d5ff"/><circle cx="432" cy="97" r="0.5" fill="#fff"/><circle cx="34" cy="105" r="0.5" fill="#c4b5fd"/><circle cx="120" cy="42" r="0.8" fill="#fff"/><circle cx="1029" cy="71" r="0.6" fill="#c4b5fd"/><circle cx="471" cy="49" r="1.0" fill="#c4b5fd"/><circle cx="135" cy="69" r="1.1" fill="#c4b5fd"/><circle cx="1069" cy="81" r="0.9" fill="#c4b5fd"/></g>
+<g><animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" begin="0.9s" repeatCount="indefinite"/><circle cx="481" cy="86" r="0.5" fill="#c4b5fd"/><circle cx="104" cy="93" r="0.8" fill="#f5d0fe"/><circle cx="893" cy="94" r="0.9" fill="#c4b5fd"/><circle cx="452" cy="43" r="0.6" fill="#fff"/><circle cx="554" cy="97" r="0.6" fill="#c4b5fd"/><circle cx="447" cy="98" r="0.8" fill="#f5d0fe"/><circle cx="818" cy="10" r="0.7" fill="#c4b5fd"/><circle cx="4" cy="55" r="1.0" fill="#e9d5ff"/><circle cx="693" cy="15" r="1.0" fill="#f5d0fe"/><circle cx="225" cy="20" r="0.5" fill="#f5d0fe"/><circle cx="610" cy="86" r="0.9" fill="#c4b5fd"/><circle cx="716" cy="6" r="0.8" fill="#f5d0fe"/></g>
+<g><animate attributeName="opacity" values="0.2;1;0.2" dur="5.5s" begin="1.8s" repeatCount="indefinite"/><circle cx="90" cy="66" r="1.0" fill="#e9d5ff"/><circle cx="1165" cy="73" r="1.0" fill="#f5d0fe"/><circle cx="456" cy="105" r="1.2" fill="#fff"/><circle cx="584" cy="26" r="0.4" fill="#fff"/><circle cx="39" cy="69" r="0.8" fill="#f5d0fe"/><circle cx="302" cy="104" r="1.0" fill="#e9d5ff"/><circle cx="196" cy="28" r="1.1" fill="#c4b5fd"/><circle cx="1020" cy="71" r="0.7" fill="#f5d0fe"/><circle cx="584" cy="65" r="1.1" fill="#fff"/><circle cx="928" cy="78" r="1.0" fill="#e9d5ff"/><circle cx="752" cy="53" r="1.0" fill="#e9d5ff"/><circle cx="771" cy="35" r="0.6" fill="#e9d5ff"/></g>
+<g><animate attributeName="opacity" values="0.2;1;0.2" dur="7s" begin="2.7s" repeatCount="indefinite"/><circle cx="87" cy="70" r="0.5" fill="#fff"/><circle cx="643" cy="18" r="0.6" fill="#fff"/><circle cx="1022" cy="28" r="1.3" fill="#e9d5ff"/><circle cx="1031" cy="24" r="1.2" fill="#f5d0fe"/><circle cx="1186" cy="23" r="1.0" fill="#e9d5ff"/><circle cx="809" cy="81" r="0.7" fill="#c4b5fd"/><circle cx="510" cy="34" r="0.4" fill="#e9d5ff"/><circle cx="793" cy="55" r="0.7" fill="#fff"/><circle cx="763" cy="38" r="0.7" fill="#c4b5fd"/><circle cx="918" cy="31" r="1.3" fill="#e9d5ff"/><circle cx="1061" cy="19" r="0.7" fill="#f5d0fe"/><circle cx="633" cy="4" r="1.0" fill="#c4b5fd"/></g>
+
+<g opacity="0"><line x1="0" y1="0" x2="120" y2="0" stroke="url(#shcon)" stroke-width="2" stroke-linecap="round"/><circle cx="120" cy="0" r="2.2" fill="#fff"/>
+<animateTransform attributeName="transform" type="translate" values="-150 5;1350 60" dur="9s" begin="2.9s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.25;0.32;1" dur="9s" begin="2.9s" repeatCount="indefinite"/></g>
+<rect x="1" y="1" width="1198" height="108" rx="18" fill="none" stroke="#a855f7" stroke-opacity="0.55" stroke-width="2"/>
+<text x="48" y="58%" dominant-baseline="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="3" fill="url(#txcon)" filter="url(#glowcon)">✦  let's connect</text>
+</g>
+</svg>
