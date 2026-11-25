@@ -55,11 +55,6 @@ Right now I'm working on **[semjid-project](https://github.com/Dulguun17/semjid-
 ## 📊 Nightlife stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dulguun17&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=f472b6&icon_color=a855f7&text_color=e9d5ff&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulguun17&layout=compact&hide_border=true&bg_color=1a0b2e&title_color=f472b6&text_color=e9d5ff" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Dulguun17&hide_border=true&background=1a0b2e&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&sideLabels=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa&stroke=3a0ca3" alt="Streak stats" />
 </p>
 
